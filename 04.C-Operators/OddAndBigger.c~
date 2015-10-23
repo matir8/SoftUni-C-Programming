@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+//02.Write a program that that prints if the number is both greater than 20 and odd.//
+
+int main() 
+{
+    int n;
+    scanf("%d", &n);
+    if(n % 2 != 0 && n > 20)
+    {
+        printf("Odd and bigger than 20.\n");
+    }
+    else 
+    {
+        printf("Even or smaller than 20 or both.\n");
+    }
+        
+    return 0;
+}
