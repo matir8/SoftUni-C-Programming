@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446391495 source:/home/martin/Desktop/SoftUni-C-Programming/08-C-Pointers/01-SwapNumbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

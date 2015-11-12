@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446878011 source:/home/martin/Desktop/SoftUni-C-Programming/10-C-Characters-And-Strings/01-ReverseString/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

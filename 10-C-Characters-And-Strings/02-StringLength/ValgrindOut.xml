@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<valgrindoutput>
+
+<protocolversion>4</protocolversion>
+<protocoltool>memcheck</protocoltool>
+
+<preamble>
+  <line>Memcheck, a memory error detector</line>
+  <line>Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.</line>
+  <line>Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info</line>
+  <line>Command: /home/martin/Desktop/SoftUni-C-Programming/10-C-Characters-And-Strings/02-StringLength/bin/Debug/02-StringLength </line>
+</preamble>
+
+<pid>5406</pid>
+<ppid>3183</ppid>
+<tool>memcheck</tool>
+
+<args>
+  <vargv>
+    <exe>/usr/bin/valgrind.bin</exe>
+    <arg>--leak-check=full</arg>
+    <arg>--track-origins=yes</arg>
+    <arg>--xml=yes</arg>
+    <arg>--xml-file=/home/martin/Desktop/SoftUni-C-Programming/10-C-Characters-And-Strings/02-StringLength/ValgrindOut.xml</arg>
+  </vargv>
+  <argv>
+    <exe>/home/martin/Desktop/SoftUni-C-Programming/10-C-Characters-And-Strings/02-StringLength/bin/Debug/02-StringLength</exe>
+    <arg></arg>
+  </argv>
+</args>
+
+<status>
+  <state>RUNNING</state>
+  <time>00:00:00:00.554 </time>
+</status>
+
+
+<status>
+  <state>FINISHED</state>
+  <time>00:00:04:41.057 </time>
+</status>
+
+<errorcounts>
+</errorcounts>
+
+<suppcounts>
+</suppcounts>
+
+</valgrindoutput>
+

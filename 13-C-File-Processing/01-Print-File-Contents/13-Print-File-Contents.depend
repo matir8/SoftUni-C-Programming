@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447256892 source:/home/martin/Desktop/SoftUni-C-Programming/13-C-File-Processing/13-Print-File-Contents/main.c
+	<stdio.h>
+	<stdlib.h>
+

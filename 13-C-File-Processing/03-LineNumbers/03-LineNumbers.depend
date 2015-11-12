@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447261519 source:/home/martin/Desktop/SoftUni-C-Programming/10-C-Characters-And-Strings/03-LineNumbers/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1447261519 source:/home/martin/Desktop/SoftUni-C-Programming/13-C-File-Processing/03-LineNumbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

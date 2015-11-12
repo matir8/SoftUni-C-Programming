@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447279652 source:/home/martin/Desktop/SoftUni-C-Programming/13-C-File-Processing/05-SlicingFile/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+

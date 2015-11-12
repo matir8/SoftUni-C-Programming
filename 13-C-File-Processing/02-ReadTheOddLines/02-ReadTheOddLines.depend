@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447258872 source:/home/martin/Desktop/SoftUni-C-Programming/13-C-File-Processing/02-ReadTheOddLines/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446496806 source:/home/martin/Desktop/SoftUni-C-Programming/08-C-Pointers/10-ReadLine/main.c
+	<stdio.h>
+	<stdlib.h>
+

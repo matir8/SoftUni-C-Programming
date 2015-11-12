@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446392955 source:/home/martin/Desktop/SoftUni-C-Programming/08-C-Pointers/02-ArrayPrint/main.c
+	<stdio.h>
+	<stdlib.h>
+

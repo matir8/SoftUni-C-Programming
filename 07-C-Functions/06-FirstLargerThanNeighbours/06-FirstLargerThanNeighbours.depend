@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446285404 source:/home/martin/Desktop/SoftUni-C-Programming/07-C-Functions/06-FirstLargerThanNeighbours/main.c
+	<stdio.h>
+	<stdlib.h>
+

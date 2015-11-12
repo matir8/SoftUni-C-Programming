@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446988923 source:/home/martin/Desktop/SoftUni-C-Programming/10-C-Characters-And-Strings/02-BitAtPositionP/main.c
+	<stdio.h>
+	<stdlib.h>
+
